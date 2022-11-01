@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author goravi
+ *
+ */
+module GenericsAssignment {
+}
